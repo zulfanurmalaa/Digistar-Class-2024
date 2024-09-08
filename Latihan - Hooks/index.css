@@ -1,0 +1,12 @@
+/* index.css */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;  /* Ganti dengan font baru */
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;  /* Bisa diterapkan di heading */
+  font-size: 24px;
+  font-weight: 700;  /* Gunakan ketebalan sesuai kebutuhan */
+}
+  
